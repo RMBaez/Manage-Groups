@@ -72,10 +72,8 @@ Task 3.
 
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/74581312-7e76-4e6f-8a9a-81c030d008d6">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/3a337009-05ef-4a98-85b1-4b09f0ea061c">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/467134de-71d3-41aa-8556-3399b3c2c9cf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/8ec44fa2-d8a2-409e-89c8-b37dec1016e1">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/165036f7-1d06-46cd-89e0-efc85be4d0d8">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/0847a3b7-d1f2-4c0f-a077-81b3ed94c7e0">
 
 
 </p>
