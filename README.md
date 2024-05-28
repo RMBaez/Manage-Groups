@@ -84,57 +84,12 @@ Task 4.
 
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/f1e68674-93ab-4bf7-8111-e28bc506523c">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/888a0f97-afb1-4441-a07c-ab9e1e247ed4">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/e4b4a32c-a4ca-4b36-94d1-7b1bf82115d9">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/ed39852d-800e-48fc-9a46-18840ac308b5">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/62ae8e2a-19eb-47c2-b8aa-b166a94133e0">
+<<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/335cf59e-3eeb-4bb2-b5a2-2967421ab894">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/ae9d9e76-8381-4289-bc22-28e2069ff779">
 
 
 </p>
 <p>
 Task 5.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/c12b2099-50df-4773-aad5-ee64fb87b302">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/dc590f6f-9928-4f14-beed-6f57ef908dee">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/88d6788b-d061-4fce-a063-fcf9880f680e">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/e6107b8a-09f7-4e5d-a796-058786ddface">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/73c471d3-c3ac-4cce-9d88-5b18b5757101">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/b3c4bbca-198b-4345-b742-e37e3de13241">
-
-
-
-</p>
-<p>
-Task 6.
-</p>
-<br />
-
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/9453de4e-18b5-404e-b8ba-7c14be5ec788">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/8c09a4ee-179c-4acc-9a33-09f963d5bd46">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/ecdc2629-8b43-47a0-8bc4-8317259b73fc">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/2e375f14-bea1-4b84-9b1c-3f03134490ab">
-
-
-</p>
-<p>
-Task 7.
-</p>
-<br />
-
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/a7b4a909-76cb-4d5d-b662-d7179dea0a31">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/bde53088-4c5d-4186-bcc3-1258560a3151">
-
-
-</p>
-<p>
-Task 8.
 </p>
 <br />
