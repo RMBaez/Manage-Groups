@@ -22,11 +22,9 @@ Task 2: An old employee has left the organization, and a new employee has joined
 
 Task 3: Update the group details created by you in Task 1 by providing a description of the organization.
 
-Task 4: Create another group for all the departments in the organization with the Membership type as Dynamic user and Add dynamic query.
+Task 4: Delete the organization group created by you in Task 1.
 
-Task 5: Delete the organization group created by you in Task 1.
-
-Task 6: Restore the deleted organization group. 
+Task 5: Restore the deleted organization group. 
 
 
 
