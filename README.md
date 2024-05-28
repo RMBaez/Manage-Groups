@@ -61,9 +61,9 @@ Task 2.
 <br />
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/d20fd8e1-17a9-4ef9-89b5-e568b3e26947">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/03bf3e9d-f270-4c0a-883d-5b609eb98415">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/a293e2bf-9bd0-4b6c-bcbf-ac9aef403b37">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/acbda8ce-0bcd-494d-959e-8defb1f1ccab">
+
+
 
 
 </p>
