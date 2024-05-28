@@ -1,43 +1,37 @@
 <p align="center">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/556252cb-981e-4992-9262-305d5013b854">
+<img width="613" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/4c7f17e2-9d9d-45c7-9d72-18758ab7a24d">
+
+
+
 
 
 </p>
 
-<h1>Azure: Create a Virtual Machine and Deploy a Web Server</h1>
-In this tutorial, we create a Virtual Machine in Azure to deploy a web server, specifically a Nextcloud server. We will also observe how to use Bastion to connect to the machine via SSH, without exposing an external port to the Internet, and then installing a simple Nextcloud server and make the Virtual Machine available.  <br />
+<h1>Azure: Create and Manage Groups</h1>
+In this tutorial, you will observe the usage of the Azure Active Directory (Azure AD) tenant in creating a group and managing the members in the existing group.   <br />
 
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure VM
-- Virtual Network
-- Bastion
-- Network Protocol (SSH)
+- Microsoft Azure AD
 
-<h2>Operating Systems Used </h2>
-
-- Ubuntu Server
-- Nextcloud
 
 <h2>High-Level Steps</h2>
 
--Task 1: Create a Resource Group
+Task 1: Create a group for your organization with the organization manager as the owner and add two employees as members. Keep the group type as Microsoft 365 with the Membership type as Assigned.
 
--Task 2: Create a Virtual Network and a subnet
+Task 2: An old employee has left the organization, and a new employee has joined your organization. Add the new employee as a group member and remove the old employee from the group.
 
--Task 3: Protect a subnet using a Network Security Group
+Task 3: Update the group details created by you in Task 1 by providing a description of the organization.
 
--Task 4: Deploy Bastion to connect to a Virtual Machine
+Task 4: Create another group for all the departments in the organization with the Membership type as Dynamic user and Add dynamic query.
 
--Task 5: Create an Ubuntu Server Virtual Machine
+Task 5: Delete the organization group created by you in Task 1.
 
--Task 6: Install Nextcloud by connecting via SSH using Bastion
+Task 6: Restore the deleted organization group. 
 
--Task 7: Publish an IP
 
--Task 8: Create a DNS label
 
 <h2>Actions and Observations</h2>
 
