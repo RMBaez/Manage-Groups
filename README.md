@@ -2,9 +2,6 @@
 <img width="613" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/4c7f17e2-9d9d-45c7-9d72-18758ab7a24d">
 
 
-
-
-
 </p>
 
 <h1>Azure: Create and Manage Groups</h1>
@@ -36,8 +33,13 @@ Task 6: Restore the deleted organization group.
 <h2>Actions and Observations</h2>
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/f71be315-3a9c-4d99-b026-840fd326bb64">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/66735504-bc37-435f-8bc4-c0ab5969e242">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/809b8868-490c-4aa6-a93a-41e057623556">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/292d37dd-c30f-4911-a675-8264483fe240">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/8f0cc151-52f5-4681-969b-c6847acb8c2e">
+<img width="1440" alt="image" src="https://github.com/RMBaez/Manage-Groups/assets/170957530/5cd0bdf2-58be-47d4-9c91-8f40e6a866b3">
+
+
+
 
 </p>
 <p>
